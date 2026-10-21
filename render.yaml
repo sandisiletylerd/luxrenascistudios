@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: luxrenasci-studios
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
